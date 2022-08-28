@@ -1,19 +1,19 @@
 {
   "home": {
-    "title": "Bienvenue, Java Hipster !",
+    "title": "Bienvenue, Sample Code de Mr. Donfack !",
     "subtitle": "Ceci est votre page d'accueil",
     "logged": {
       "message": "Vous êtes connecté en tant que \"{{username}}\"."
     },
-    "question": "Si vous avez des questions à propos de JHipster :",
+    "question": "Si vous avez des questions à propos de Sample Code de Mr. Donfack :",
     "link": {
-      "homepage": "Page d'accueil de JHipster",
-      "stackoverflow": "JHipster sur Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
-      "chat": "JHipster public chat room",
-      "follow": "Suivez @jhipster sur Twitter"
+      "homepage": "Page d'accueil de Sample Code de Mr. Donfack",
+      "stackoverflow": "Sample Code de Mr. Donfack sur Stack Overflow",
+      "bugtracker": "Sample Code de Mr. Donfack bug tracker",
+      "chat": "Sample Code de Mr. Donfack public chat room",
+      "follow": "Suivez @Sample Code de Mr. Donfack sur Twitter"
     },
-    "like": "Si vous aimez JHipster, donnez nous une étoile sur",
+    "like": "Si vous aimez Sample Code de Mr. Donfack, donnez nous une étoile sur",
     "github": "GitHub "
   }
 }

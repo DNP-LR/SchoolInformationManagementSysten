@@ -1,19 +1,19 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
+    "title": "Welcome, Java Sample Code of Mr. Donfack!",
     "subtitle": "This is your homepage",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "If you have any question on Sample Code of Mr. Donfack:",
     "link": {
-      "homepage": "JHipster homepage",
-      "stackoverflow": "JHipster on Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
-      "chat": "JHipster public chat room",
-      "follow": "follow @jhipster on Twitter"
+      "homepage": "Sample Code of Mr. Donfack homepage",
+      "stackoverflow": "Sample Code of Mr. Donfack on Stack Overflow",
+      "bugtracker": "Sample Code of Mr. Donfack bug tracker",
+      "chat": "Sample Code of Mr. Donfack public chat room",
+      "follow": "follow @Sample Code of Mr. Donfack on Twitter"
     },
-    "like": "If you like JHipster, don't forget to give us a star on",
+    "like": "If you like Sample Code of Mr. Donfack, don't forget to give us a star on",
     "github": "GitHub"
   }
 }
